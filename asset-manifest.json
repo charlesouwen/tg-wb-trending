@@ -5,17 +5,17 @@
     "main.js.map": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/main.ddd1cb0e.chunk.js.map",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/runtime-main.26745c49.js",
     "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/runtime-main.26745c49.js.map",
-    "static/js/2.fdf3bfd8.chunk.js": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/2.fdf3bfd8.chunk.js",
-    "static/js/2.fdf3bfd8.chunk.js.map": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/2.fdf3bfd8.chunk.js.map",
+    "static/js/2.692f75eb.chunk.js": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/2.692f75eb.chunk.js",
+    "static/js/2.692f75eb.chunk.js.map": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/2.692f75eb.chunk.js.map",
     "static/js/3.4f049ad1.chunk.js": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/3.4f049ad1.chunk.js",
     "static/js/3.4f049ad1.chunk.js.map": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/3.4f049ad1.chunk.js.map",
     "index.html": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/index.html",
     "static/css/main.52e7de60.chunk.css.map": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/css/main.52e7de60.chunk.css.map",
-    "static/js/2.fdf3bfd8.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/2.fdf3bfd8.chunk.js.LICENSE.txt"
+    "static/js/2.692f75eb.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/2.692f75eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.26745c49.js",
-    "static/js/2.fdf3bfd8.chunk.js",
+    "static/js/2.692f75eb.chunk.js",
     "static/css/main.52e7de60.chunk.css",
     "static/js/main.ddd1cb0e.chunk.js"
   ]
